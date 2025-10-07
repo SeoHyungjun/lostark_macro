@@ -19,6 +19,12 @@ pip install -r requirements.txt
 
 프로젝트에 포함된 `ids_example.yaml` 파일을 복사하여 `ids.yaml`이라는 이름으로 파일을 새로 만듭니다.
 
+- **Windows:**
+```bash
+copy ids_example.yaml ids.yaml
+```
+
+- **macOS / Linux:**
 ```bash
 cp ids_example.yaml ids.yaml
 ```
