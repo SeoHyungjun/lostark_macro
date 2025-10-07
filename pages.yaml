@@ -1,0 +1,14 @@
+- name: 10월 스토어 출석 이벤트
+  url: https://event.onstove.com/ko/dailyshop/STOVEINDIE/202510?utm_source=onstove&utm_medium=non&utm_content=banner&utm_campaign=os_rotation_dailyshop_25oct_dailyshop_na_eventcard_web_onstove_kr_tier1_intn&utm_term=na
+  action: 출석
+
+- name: 마작일번가 10월 출석 이벤트
+  url: https://event.onstove.com/dailyshop/RIICHICITY_IND/202510
+  action: 출석
+
+- name: 캡슐뽑기 경품 라인업 대폭 강화!
+  url: https://reward.onstove.com/
+  action: 뽑기
+  details:
+    draw_type: 100
+    repeat: 30
